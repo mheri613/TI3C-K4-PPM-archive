@@ -1,0 +1,3 @@
+Pada halaman add transaksi terdapat button seperti on off, yang mana jika berwarna biru 
+akan terdapat halaman untuk mengisi data pendapatan sedangkan jika button di atur warna merah terdapat halaman
+untuk mengisi data pengeluaran
