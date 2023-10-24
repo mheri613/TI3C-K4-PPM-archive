@@ -14,11 +14,11 @@ class MyApp extends StatelessWidget {
 
     for (int i = 0; i < n; i++) {
       Container box = Container(
-        child: Center(child: Text(i.toString())),
         color: fillColors[i],
         width: w,
         height: h,
-        margin: EdgeInsets.all(8.0),
+        margin: const EdgeInsets.all(8.0),
+        child: Center(child: Text(i.toString())),
       );
       boxes.add(box);
     }
@@ -32,10 +32,10 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter UI Succinctly'),
+          title: const Text('Flutter UI Succinctly'),
         ),
         body: Container(
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
             gradient: LinearGradient(
               begin: Alignment.topRight,
               end: Alignment.bottomLeft,
@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
         floatingActionButton: FloatingActionButton(
-          child: Icon(Icons.ac_unit),
+          child: const Icon(Icons.ac_unit),
           onPressed: () {
             print('Oh, it is cold outside...');
           },
@@ -58,8 +58,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.indigo,
         hintColor: Colors.amber,
-        textTheme: TextTheme(
-          bodyText2: TextStyle(fontSize: 26, fontStyle: FontStyle.italic),
+        textTheme: const TextTheme(
+          bodyMedium: TextStyle(fontSize: 26, fontStyle: FontStyle.italic),
         ),
         brightness: Brightness.dark,
       ),
