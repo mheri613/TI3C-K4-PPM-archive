@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Hello Flutter App'),
+          title: const Text('Hello Flutter App'),
         ),
         body: const Center(
           child: Text(
