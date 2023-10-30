@@ -14,11 +14,11 @@
 
 //     for (int i = 0; i < n; i++) {
 //       Container box = Container(
+//         child: Center(child: Text(i.toString())),
 //         color: fillColors[i],
 //         width: w,
 //         height: h,
-//         margin: const EdgeInsets.all(8.0),
-//         child: Center(child: Text(i.toString())),
+//         margin: EdgeInsets.all(8.0),
 //       );
 //       boxes.add(box);
 //     }
@@ -32,10 +32,10 @@
 //       debugShowCheckedModeBanner: false,
 //       home: Scaffold(
 //         appBar: AppBar(
-//           title: const Text('Flutter UI Succinctly'),
+//           title: Text('Flutter UI Succinctly'),
 //         ),
 //         body: Container(
-//           decoration: const BoxDecoration(
+//           decoration: BoxDecoration(
 //             gradient: LinearGradient(
 //               begin: Alignment.topRight,
 //               end: Alignment.bottomLeft,
@@ -49,7 +49,7 @@
 //           ),
 //         ),
 //         floatingActionButton: FloatingActionButton(
-//           child: const Icon(Icons.ac_unit),
+//           child: Icon(Icons.ac_unit),
 //           onPressed: () {
 //             print('Oh, it is cold outside...');
 //           },
@@ -58,8 +58,8 @@
 //       theme: ThemeData(
 //         primaryColor: Colors.indigo,
 //         hintColor: Colors.amber,
-//         textTheme: const TextTheme(
-//           bodyMedium: TextStyle(fontSize: 26, fontStyle: FontStyle.italic),
+//         textTheme: TextTheme(
+//           bodyText2: TextStyle(fontSize: 26, fontStyle: FontStyle.italic),
 //         ),
 //         brightness: Brightness.dark,
 //       ),
