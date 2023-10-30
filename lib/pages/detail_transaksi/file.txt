@@ -1,0 +1,13 @@
+#Detail Transaksi:
+1. Expense:Ini adalah jenis transaksi yang bisa dipilih, menunjukkan bahwa transaksi yang akan dicatat adalah pengeluaran. 
+   Ada kemungkinan ada pilihan lain, seperti "Pendapatan" atau "Transfer," tergantung pada fungsi aplikasi.
+2. Amount:Ini adalah kolom atau bidang di mana pengguna memasukkan jumlah uang terkait dengan transaksi.
+   Ini dapat berupa angka yang positif untuk pendapatan atau angka negatif untuk pengeluaran.
+3. Category:Ini adalah opsi atau pilihan yang memungkinkan pengguna untuk menentukan kategori atau jenis dari transaksi yang dilakukan. 
+   Contoh kategori mungkin termasuk makanan, transportasi, hiburan, dll.
+4. Enter Date:Ini adalah bidang di mana pengguna memasukkan tanggal transaksi terjadi.
+   Ini memastikan bahwa catatan waktu transaksi akurat dan teratur.
+5. Description:Ini adalah kolom atau bidang di mana pengguna dapat memberikan keterangan atau deskripsi tambahan tentang transaksi. 
+   Ini dapat digunakan untuk memberikan konteks tambahan atau catatan khusus.
+6. Save:Ini adalah tombol yang, ketika diklik, menyimpan detail transaksi yang baru dimasukkan ke dalam sistem atau basis data. 
+   Setelah disimpan, transaksi ini akan tercatat dan dapat diakses kembali di kemudian hari.
