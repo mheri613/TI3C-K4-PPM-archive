@@ -39,7 +39,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///D:/Kuliah/TI-3C/Programming%20mobile/aplikasi/flutter/packages/flutter",
+      "rootUri": "file:///C:/Android/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -51,7 +51,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///D:/Kuliah/TI-3C/Programming%20mobile/aplikasi/flutter/packages/flutter_test",
+      "rootUri": "file:///C:/Android/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -87,7 +87,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///D:/Kuliah/TI-3C/Programming%20mobile/aplikasi/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/Android/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -146,7 +146,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-10-24T20:30:29.674785Z",
+  "generated": "2023-10-30T18:11:53.765141Z",
   "generator": "pub",
   "generatorVersion": "3.1.4"
 }
