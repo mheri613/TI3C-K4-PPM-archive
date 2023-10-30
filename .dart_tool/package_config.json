@@ -15,7 +15,11 @@
     },
     {
       "name": "calendar_appbar",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/calendar_appbar-0.0.6",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/calendar_appbar-0.0.6",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -39,13 +43,21 @@
     },
     {
       "name": "crypto",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "cupertino_icons",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.6",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.6",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -57,7 +69,11 @@
     },
     {
       "name": "ffi",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -81,25 +97,41 @@
     },
     {
       "name": "google_fonts",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-3.0.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-3.0.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "http",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "intl",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -135,49 +167,81 @@
     },
     {
       "name": "path_provider",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "path_provider_android",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.0",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.0",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "path_provider_foundation",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.3.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.3.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "path_provider_linux",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_linux-2.2.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "path_provider_platform_interface",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "path_provider_windows",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.1",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.1",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "platform",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.3",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.3",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "plugin_platform_interface",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -225,7 +289,11 @@
     },
     {
       "name": "typed_data",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -243,13 +311,21 @@
     },
     {
       "name": "win32",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.0.9",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.0.9",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "xdg_directories",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3",
+=======
+      "rootUri": "file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3",
+>>>>>>> origin/category
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -260,7 +336,11 @@
       "languageVersion": "3.1"
     }
   ],
+<<<<<<< HEAD
   "generated": "2023-10-30T18:12:30.039948Z",
+=======
+  "generated": "2023-10-24T04:36:33.583262Z",
+>>>>>>> origin/category
   "generator": "pub",
   "generatorVersion": "3.1.4"
 }

@@ -1,0 +1,5 @@
+fitur fitur yang ada dalam page category
+
+1. tambah category
+2. hapus agegory
+3. edit category
