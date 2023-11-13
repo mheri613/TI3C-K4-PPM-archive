@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 async
 2.18
 <<<<<<< HEAD
@@ -187,6 +189,7 @@ xdg_directories
 file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/
 file:///C:/Users/avi/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/lib/
 >>>>>>> origin/category
+>>>>>>> 968f1ddee014d1dc36e91e7671a94e4d8289c084
 sky_engine
 3.0
 file:///C:/Android/flutter/bin/cache/pkg/sky_engine/
@@ -198,6 +201,9 @@ file:///C:/Android/flutter/packages/flutter/lib/
 flutter_test
 3.0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 968f1ddee014d1dc36e91e7671a94e4d8289c084
 file:///C:/Android/flutter/packages/flutter_test/
 file:///C:/Android/flutter/packages/flutter_test/lib/
 async
@@ -356,6 +362,12 @@ xdg_directories
 2.19
 file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/
 file:///C:/Users/avisha/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.3/lib/
+<<<<<<< HEAD
+project_manajemen_uang
+3.1
+file:///D:/Kuliah/TI-3C/Programming%20mobile/project/TI3C-K4-PPM/
+file:///D:/Kuliah/TI-3C/Programming%20mobile/project/TI3C-K4-PPM/lib/
+=======
 project_manajemen_uang
 3.1
 file:///D:/Kuliah/TI-3C/Programming%20mobile/project/TI3C-K4-PPM/
@@ -484,4 +496,5 @@ helloworld
 file:///D:/project_manajemen_uang/
 file:///D:/project_manajemen_uang/lib/
 >>>>>>> origin/detail_transaksi
+>>>>>>> 968f1ddee014d1dc36e91e7671a94e4d8289c084
 2
