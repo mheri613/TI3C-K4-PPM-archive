@@ -1,0 +1,19 @@
+Pada halaman add transaksi terdapat button seperti on off, yang mana jika berwarna biru 
+akan muncul halaman untuk mengisi data pendapatan (income) sedangkan jika button di atur 
+warna merah muncul halaman untuk mengisi data pengeluaran (Expense).
+
+Adapun fitur di halaman income:
+- User diminta untuk mengisi jumlah pendapatannya
+- User diminta mengisi kategori pendapatan, misalnya uang gaji, THR, Uang Makan, dll
+- Entry Date, dimana jika kita klik akan langsung masuk ke widget kalender dimana kita bisa langsung
+  memilih tanggal di kalender
+- User diminta mengisi deskripsi (terserah user mau mengisi apa)
+- Lalu terdapat tombol Save, dimana jika data sudah benar data bisa langsung di simpan oleh user
+
+Adapun fitur di halaman Expense:
+- User diminta untuk mengisi jumlah pendapatannya
+- User diminta mengisi kategori pendapatan, misalnya uang gaji, THR, Uang Makan, dll
+- Entry Date, dimana jika kita klik akan langsung masuk ke widget kalender dimana kita bisa langsung
+  memilih tanggal di kalender
+- User diminta mengisi deskripsi (terserah user mau mengisi apa)
+- Lalu terdapat tombol Save, dimana jika data sudah benar data bisa langsung di simpan oleh user
